@@ -1,0 +1,16 @@
+{
+  "name": "week-days",
+  "version": "1.0.0",
+  "description": "primera aplicacion en java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"TEST\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "week-days",
+    "git"
+  ],
+  "author": "Yhoe Emerson Benitez Guarate",
+  "license": "MIT"
+}
